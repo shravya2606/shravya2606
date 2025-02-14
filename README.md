@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @shravya2606
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I am a passionate software developer with expertise in Android development, AOSP customization, and system optimization. Skilled in Java, I enjoy solving Data Structures and Algorithms (DSA) problems and continuously improving my problem-solving abilities.
+Currently, I am exploring JDBC, React, and full REST API development, expanding my backend and full-stack development knowledge.
 
-<!---
-shravya2606/shravya2606 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔹 Strong in Java, Kotlin, XML, SQLite, Room, Retrofit, Firebase
+🔹 Passionate about DSA, system design, and backend development
+🔹 Exploring JDBC, React, and REST APIs
